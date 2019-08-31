@@ -1,5 +1,5 @@
 # Animal Type Classifier using Scikit-Learn
-The project's objective is to predict an animal's class given some of its characteristics such as hair, feathers, backbone, fins, etc. The machine learning algorithm used to create the classifier is Logistic Regression. 
+The project's objective is to predict an animal's class given some of its characteristics such as hair, feathers, backbone, fins, etc. The machine learning algorithms used to create the classifier are Logistic Regression and Decision Tree. 
 
 ## Tools and Technologies used
 * [Jupyter Notebook](https://jupyter.org/) - Open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
